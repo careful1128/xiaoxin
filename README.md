@@ -34,7 +34,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/careful1128/xiaoxin/assets/images/xiaoxin.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是xiaoxin同学。热爱编程、运动、读书和臭美。</p>
+<p>&emsp;&emsp;嗨，你好，我是xiaoxin同学。热爱编程、运动、读书</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在使用科技改变这个世界，一想到这个就觉得我又可以了！</p>
 <p>&emsp;&emsp;<strong>Life can be heavy, especially if you try to carry it all at once. Part of growing up and moving into new chapters of your life is about catch and release.</strong></p>
@@ -79,13 +79,11 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/careful1128/xiaoxin/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=careful1128&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=careful1128&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=careful1128&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/careful1128/xiaoxin/assets/images/right.png" />
 
 
 <!-- ########################################## 分割 ########################################## -->
